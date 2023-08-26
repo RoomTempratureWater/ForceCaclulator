@@ -1,11 +1,5 @@
 # ForceCalculator
 
-<br/>
-<p align="center">
-  <h3 align="center">Force Calculator</h3>
-
-</p>
-
 ## Update
 * the project is made into a simple python library --> [Simple Vectors](https://pypi.org/project/SimpleVectors/0.0.5/)
 
